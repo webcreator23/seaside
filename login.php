@@ -2,7 +2,7 @@
 include 'params.inc';
 session_start();
 
-// check the supplied login credentials
+/// check the supplied login credentials
 
 //echo "un=".$_REQUEST['un']."<br>";
 //echo "pw=".$_REQUEST['pw']."<br>";
